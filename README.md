@@ -27,7 +27,7 @@ var options = {
   placeholder: "Search docs",
   allow: [],
   ignore: [],
-  separator:""
+  separator: ""
 };
 
 export default defineConfig({
